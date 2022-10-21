@@ -8,5 +8,7 @@ class AdmonActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_admon)
         setSupportActionBar(findViewById(R.id.My_toolbar))
+        //Comentario
     }
+
 }
