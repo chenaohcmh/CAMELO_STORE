@@ -3,8 +3,13 @@
 
     <string name="text_username">Username</string>
     <string name="text_password">Password</string>
+    <string name="text_btncliente">Client</string>
+    <string name="text_btnadmon">Admin</string>
     <string name="hint_password">Your password</string>
     <string name="txt_welcome">Welcome</string>
+    <string name="txt_nameprod">Name Produt</string>
+    <string name="txt_precprod">Product Price</string>
+
     <string name="user">Carlos Mario</string>
     <string name="txt_introduction">Introduction</string>
     <string name="txt_carreta">Introductionxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</string>

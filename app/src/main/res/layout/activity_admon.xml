@@ -40,7 +40,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Bienvenida"
+                android:text="@string/txt_welcome"
                 android:textColor="#FDFBFB"
                 android:textSize="25dp" />
 
@@ -76,7 +76,6 @@
             android:layout_margin="20dp"
             android:layout_weight="1"
             android:background="@color/white"
-
             android:orientation="vertical">
 
             <ImageView
@@ -99,7 +98,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
-                    android:hint="nameProd01"
+                    android:hint="@string/txt_nameprod"
                     android:textColor="#090909"
                     android:textSize="10dp" />
 
@@ -108,7 +107,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
-                    android:hint="Precio Prod01"
+                    android:hint="@string/txt_precprod"
                     android:textColor="#090909"
                     android:textSize="10dp" />
 
@@ -144,7 +143,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
                     android:id="@+id/nameProd02"
-                    android:hint="nameProd02"
+                    android:hint="@string/txt_nameprod"
                     android:textColor="#090909"
                     android:textSize="10dp" />
 
@@ -153,7 +152,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
                     android:id="@+id/prProd02"
-                    android:hint="Precio Prod02"
+                    android:hint="@string/txt_precprod"
                     android:textColor="#090909"
                     android:textSize="10dp" />
 
@@ -183,7 +182,7 @@
                 android:layout_marginEnd="10dp"
                 android:elevation="10dp"
                 android:layout_weight="1"
-                android:src="@drawable/improd001"/>
+                android:src="@drawable/improd03"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -197,7 +196,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
                     android:id="@+id/nameProd03"
-                    android:hint="nameProd03"
+                    android:hint="@string/txt_nameprod"
                     android:textColor="#090909"
                     android:textSize="10dp" />
 
@@ -206,7 +205,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
                     android:id="@+id/prProd03"
-                    android:hint="Precio Prod03"
+                    android:hint="@string/txt_precprod"
                     android:textColor="#090909"
                     android:textSize="10dp" />
 
@@ -228,7 +227,7 @@
                 android:layout_marginEnd="10dp"
                 android:elevation="10dp"
                 android:layout_weight="1"
-                android:src="@drawable/improd002"/>
+                android:src="@drawable/improd04"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -242,7 +241,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
                     android:id="@+id/nameProd04"
-                    android:hint="nameProd04"
+                    android:hint="@string/txt_nameprod"
                     android:textColor="#090909"
                     android:textSize="10dp" />
 
@@ -251,7 +250,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
                     android:id="@+id/prProd04"
-                    android:hint="Precio Prod04"
+                    android:hint="@string/txt_precprod"
                     android:textColor="#090909"
                     android:textSize="10dp" />
 
