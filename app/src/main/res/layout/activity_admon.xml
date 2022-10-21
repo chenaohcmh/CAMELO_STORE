@@ -10,16 +10,7 @@
     android:background="@drawable/imbackg03"
     android:orientation="vertical">
 
-    <androidx.appcompat.widget.Toolbar
-        android:id="@+id/My_toolbar"
-        android:layout_width="match_parent"
-        android:layout_height="?attr/actionBarSize"
-        android:background="@color/material_dynamic_neutral30"
-        android:minHeight="?attr/actionBarSize"
-        app:titleTextColor="@color/white"
-        app:popupTheme="@style/Theme.AppCompat.Light"
-        android:elevation="6dp"
-        android:theme="?attr/actionBarTheme" />
+
 
 
 

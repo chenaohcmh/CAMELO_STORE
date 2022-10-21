@@ -10,7 +10,7 @@ class WelcomeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_welcome)
-        setSupportActionBar(findViewById(R.id.My_toolbar))
+        //setSupportActionBar(findViewById(R.id.My_toolbar))
         val fab:View=findViewById(R.id.fab46)
         fab.setOnClickListener{ View->
             Snackbar.make(View,"Práctica de action floating button",Snackbar.LENGTH_LONG).show()

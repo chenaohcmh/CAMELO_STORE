@@ -7,8 +7,8 @@ class AdmonActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_admon)
-        setSupportActionBar(findViewById(R.id.My_toolbar))
-        //Comentario
+        //setSupportActionBar(findViewById(R.id.My_toolbar))
+
     }
 
 }
